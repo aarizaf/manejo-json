@@ -1,0 +1,25 @@
+{
+  "name": "taller-manejo-json-grupo1",
+  "version": "1.0.0",
+  "description": "Taller de manipulación de datos JSON con fetch y métodos de arrays - Grupo 1: Usuarios",
+  "main": "taller-grupo1.js",
+  "scripts": {
+    "start": "node taller-grupo1.js",
+    "test": "node taller-grupo1.js"
+  },
+  "keywords": [
+    "json",
+    "fetch",
+    "filter",
+    "map",
+    "reduce",
+    "javascript",
+    "taller",
+    "api"
+  ],
+  "author": "Grupo 1",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
